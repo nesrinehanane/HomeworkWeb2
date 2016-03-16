@@ -1,0 +1,41 @@
+
+body {
+	height: auto;
+    width: auto;
+    margin: 25%;
+    margin-top: 2%;
+    margin-bottom: 0%;
+    padding-bottom: 0%;
+    background-color: #ffa;
+     }
+
+  .contenant{
+  	border: 2px solid blue;
+  }
+
+ .couleur{
+ 	background-color:  #ffa;
+ }
+
+h1{
+	text-align: center;
+	color: 
+}
+ fieldset{
+ 	background-color: #ffc;
+ box-shadow: 5px 6px 0 #dbdbdb;
+     margin-bottom: 3%;
+ }
+
+ fieldset h4{
+ 	color: #aeaeae;
+     margin-bottom: 0.5%;
+
+ }
+
+.bouton{
+    margin-left: 25%;
+    padding: 0.5%;
+    margin-top: 2%;
+   	
+}
